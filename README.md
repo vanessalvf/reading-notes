@@ -15,3 +15,5 @@ Growth mindset to me means that I am not putting limits on my ability to learn a
 3. The success of my team is my success as my success if also my team's success. We can grow with those around us.
    
 https://github.com/vanessalvf
+
+# Learning markdown section that I will later organzize to page: Class 01
