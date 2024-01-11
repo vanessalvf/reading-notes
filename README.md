@@ -16,4 +16,3 @@ Growth mindset to me means that I am not putting limits on my ability to learn a
    
 https://github.com/vanessalvf
 
-# Learning markdown section that I will later organzize to page: Class 01
