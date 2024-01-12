@@ -21,4 +21,4 @@ Shall you find yourself wanting to make a list in Markdown you use any of these 
 Well friends, that is all I have so far to share from my coding journey.
 Till next time,
 
-~V~
+V.
