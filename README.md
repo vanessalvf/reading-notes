@@ -16,4 +16,4 @@ Growth mindset to me means that I am not putting limits on my ability to learn a
    
 https://github.com/vanessalvf
 
-![coding meme for fun](![codingmeme](https://github.com/vanessalvf/reading-notes/assets/154932882/1c21a2d6-2175-4b86-9ceb-fa52b83feeb9)
+![coding meme for fun](codingmeme.jpeg)
