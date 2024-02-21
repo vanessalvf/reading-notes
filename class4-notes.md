@@ -15,3 +15,5 @@
 
 4. What is a semantic element?
     - A semantic element is the meaning of a piece of code aka telling you the meaning of the content they hold. Example(again no spaces): **< header > < footer >**
+
+    
